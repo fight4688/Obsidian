@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "4073439eb8c0b98e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bae96bb3dae46a4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a310bfc3fc425b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mess/markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a95baaf9cbb6e469",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2b858a3bc9cb540",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4333e0bb92046678",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "696535c9a72c65bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24e3a9b3219d0b4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "78c0eaa14ee7e86c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5110321044922
+  },
+  "right": {
+    "id": "75370eae8ed000df",
+    "type": "split",
+    "children": [
+      {
+        "id": "19a25a8687004c1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "556260ba569adabb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mess/markdown.md"
+              }
+            }
+          },
+          {
+            "id": "a90d16842fa20a13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45fbbb69384249d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed5518d8046c839e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mess/markdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86a10c11279709d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mess/markdown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a310bfc3fc425b22",
+  "lastOpenFiles": [
+    "mess/markdown.md",
+    "diary/2023-11-10尝试😃.md",
+    "words/basis.md",
+    "words/恐惧.md",
+    "mess/希腊神话.md",
+    "To do list.md",
+    "mind/出路.md",
+    "diary/2023-11-11挣扎😊.md",
+    "mess/未命名 1.md",
+    "mind",
+    "mess/未命名",
+    "mess/罗马神话.md",
+    "words/未命sdflkj名.md",
+    "希腊神话.md",
+    "特洛伊.md",
+    "words/火星.md",
+    "words/未命名",
+    "words/未命名 1.md",
+    "mess",
+    "common/未命名.md",
+    "words",
+    "新建文件夹",
+    "common",
+    "2023-11-10.md",
+    "diary"
+  ]
+}
