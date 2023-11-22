@@ -5,6 +5,8 @@
 ==talllight==
 待办清单
 - [x] markdown learning ✅ 2023-11-12
+- [x] ctrl+l
+
 代码块
 ```c++
 cout<<"Hello Obsidian!"；

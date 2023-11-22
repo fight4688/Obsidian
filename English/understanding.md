@@ -1,0 +1,1 @@
+memorizing words by ==reading articles==📖
