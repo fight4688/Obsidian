@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-11-22飞跃😀.md",
+                "file": "diary/2023-11-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-11-22飞跃😀.md"
+                "file": "diary/2023-11-24.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-11-22飞跃😀.md",
+                "file": "diary/2023-11-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-11-22飞跃😀.md",
+                "file": "diary/2023-11-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,10 +179,12 @@
   },
   "active": "dcb81337a5b7b528",
   "lastOpenFiles": [
+    "diary/2023-11-23稳步前进😊.md",
+    "diary/2023-11-24.md",
+    "experience/life.md",
+    "diary/2023-11-22飞跃😀.md",
     "diary/2023-11-17又突破😄🌈.md",
     "diary/2023-11-16高效😀.md",
-    "diary/2023-11-22飞跃😀.md",
-    "experience/life.md",
     "diary/2023-11-19😑.md",
     "diary/2023-11-18😑.md",
     "diary/2023-11-14过渡日😑.md",
@@ -207,12 +209,10 @@
     "diary/2023-11-12浮沉🫡.md",
     "mess/markdown.md",
     "mess/mind.md",
-    "mind/出路.md",
     "experience",
     "personality/未命名 1",
     "personality/source",
     "personality",
-    "mess/男性社会性图腾等级.md",
     "mind",
     "mess/未命名",
     "words/未命名"
