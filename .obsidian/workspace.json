@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bae96bb3dae46a4e",
+        "id": "233bb3e1065cd63f",
         "type": "tabs",
         "children": [
           {
-            "id": "d05ec37e0edc7bd6",
+            "id": "b0e176d6f34caa1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "dcb81337a5b7b528",
+            "id": "2472e9665025097c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-11-24.md",
+                "file": "diary/2023-11-23😊稳步前进.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5110321044922
+    "width": 243.5110321044922
   },
   "right": {
     "id": "75370eae8ed000df",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-11-24.md"
+                "file": "diary/2023-11-23😊稳步前进.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-11-24.md",
+                "file": "diary/2023-11-23😊稳步前进.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,13 +152,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-11-24.md",
+                "file": "diary/2023-11-23😊稳步前进.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "82ba604a8e7c33db",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "70ccb5d10166332e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -177,27 +194,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcb81337a5b7b528",
+  "active": "86a10c11279709d4",
   "lastOpenFiles": [
-    "diary/2023-11-23稳步前进😊.md",
-    "diary/2023-11-24.md",
-    "experience/life.md",
-    "diary/2023-11-22飞跃😀.md",
-    "diary/2023-11-17又突破😄🌈.md",
-    "diary/2023-11-16高效😀.md",
+    "diary/2023-11-25.md",
     "diary/2023-11-19😑.md",
+    "diary/2023-11-13🙂突破.md",
+    "diary/2023-11-10😃尝试.md",
+    "diary/2023-11-11😊挣扎.md",
+    "diary/2023-11-16😀高效.md",
     "diary/2023-11-18😑.md",
-    "diary/2023-11-14过渡日😑.md",
-    "diary/2023-11-13突破🙂.md",
+    "diary/2023-11-22😀飞跃.md",
+    "diary/2023-11-24🤓阿尔法.md",
+    "diary/2023-11-12🫡浮沉.md",
+    "diary/2023-11-14😑过渡日.md",
+    "diary/2023-11-15😆拨云见雾.md",
+    "diary/2023-11-17😄🌈又突破.md",
+    "diary/2023-11-20😹虚惊一场.md",
+    "diary/2023-11-21😄重回正轨.md",
+    "diary/2023-11-23😊稳步前进.md",
+    "experience/life.md",
     "English/words.md",
-    "diary/2023-11-11挣扎😊.md",
-    "diary/2023-11-10尝试😃.md",
-    "diary/2023-11-21重回正轨😄.md",
-    "diary/2023-11-20虚惊一场😹.md",
     "To do list.md",
     "experience/study.md",
     "experience/study.assets/image-20231116203825551.png",
-    "diary/2023-11-15拨云见雾😆.md",
     "experience/study.assets",
     "mess/希腊神话.md",
     "English/grammer.md",
@@ -206,9 +225,7 @@
     "English",
     "knowledge/English.md",
     "knowledge",
-    "diary/2023-11-12浮沉🫡.md",
     "mess/markdown.md",
-    "mess/mind.md",
     "experience",
     "personality/未命名 1",
     "personality/source",
