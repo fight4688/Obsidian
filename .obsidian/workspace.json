@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-11-23😊稳步前进.md",
+                "file": "diary/2023-11-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-11-23😊稳步前进.md"
+                "file": "diary/2023-11-25.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-11-23😊稳步前进.md",
+                "file": "diary/2023-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-11-23😊稳步前进.md",
+                "file": "diary/2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,8 +194,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86a10c11279709d4",
+  "active": "2472e9665025097c",
   "lastOpenFiles": [
+    "experience/life.md",
     "diary/2023-11-25.md",
     "diary/2023-11-19😑.md",
     "diary/2023-11-13🙂突破.md",
@@ -212,7 +213,6 @@
     "diary/2023-11-20😹虚惊一场.md",
     "diary/2023-11-21😄重回正轨.md",
     "diary/2023-11-23😊稳步前进.md",
-    "experience/life.md",
     "English/words.md",
     "To do list.md",
     "experience/study.md",
