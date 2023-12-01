@@ -1,92 +1,140 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-11-25",
-      "path": "diary/2023-11-25.md"
-    },
-    {
-      "basename": "life",
-      "path": "experience/life.md"
-    },
-    {
-      "basename": "2023-11-23😊稳步前进",
-      "path": "diary/2023-11-23😊稳步前进.md"
-    },
-    {
-      "basename": "2023-11-19😑",
-      "path": "diary/2023-11-19😑.md"
-    },
-    {
-      "basename": "2023-11-13🙂突破",
-      "path": "diary/2023-11-13🙂突破.md"
-    },
-    {
-      "basename": "2023-11-10😃尝试",
-      "path": "diary/2023-11-10😃尝试.md"
-    },
-    {
-      "basename": "2023-11-11😊挣扎",
-      "path": "diary/2023-11-11😊挣扎.md"
-    },
-    {
-      "basename": "2023-11-16😀高效",
-      "path": "diary/2023-11-16😀高效.md"
-    },
-    {
-      "basename": "2023-11-18😑",
-      "path": "diary/2023-11-18😑.md"
-    },
-    {
-      "basename": "2023-11-22😀飞跃",
-      "path": "diary/2023-11-22😀飞跃.md"
-    },
-    {
-      "basename": "2023-11-24🤓阿尔法",
-      "path": "diary/2023-11-24🤓阿尔法.md"
-    },
-    {
-      "basename": "2023-11-12🫡浮沉",
-      "path": "diary/2023-11-12🫡浮沉.md"
-    },
-    {
-      "basename": "2023-11-14😑过渡日",
-      "path": "diary/2023-11-14😑过渡日.md"
-    },
-    {
-      "basename": "2023-11-15😆拨云见雾",
-      "path": "diary/2023-11-15😆拨云见雾.md"
-    },
-    {
-      "basename": "2023-11-17😄🌈又突破",
-      "path": "diary/2023-11-17😄🌈又突破.md"
-    },
-    {
-      "basename": "2023-11-20😹虚惊一场",
-      "path": "diary/2023-11-20😹虚惊一场.md"
-    },
-    {
-      "basename": "2023-11-21😄重回正轨",
-      "path": "diary/2023-11-21😄重回正轨.md"
-    },
-    {
-      "basename": "words",
-      "path": "English/words.md"
-    },
-    {
-      "basename": "To do list",
-      "path": "To do list.md"
+      "basename": "2023-12-01",
+      "path": "diary/2023-12-01.md"
     },
     {
       "basename": "study",
       "path": "experience/study.md"
     },
     {
+      "basename": "life",
+      "path": "experience/life.md"
+    },
+    {
+      "basename": "经济学",
+      "path": "crash course/经济学.md"
+    },
+    {
+      "basename": "image-20231128221336301",
+      "path": "experience/source.assets/image-20231128221336301.png"
+    },
+    {
       "basename": "image-20231116203825551",
       "path": "experience/study.assets/image-20231116203825551.png"
     },
     {
+      "basename": "Pasted image 20231125164940",
+      "path": "2023-11-25.assets/Pasted.assets/Pasted image 20231125164940.jpg"
+    },
+    {
+      "basename": "Pasted",
+      "path": "2023-11-25.assets/Pasted.md"
+    },
+    {
+      "basename": "2023-11-30🐻‍❄进步",
+      "path": "diary/2023-11-30🐻‍❄进步.md"
+    },
+    {
+      "basename": "words",
+      "path": "English/words.md"
+    },
+    {
+      "basename": "2023-11-29😀保持",
+      "path": "diary/2023-11-29😀保持.md"
+    },
+    {
+      "basename": "2023-11-12🫡浮沉",
+      "path": "diary/2023-11-12🫡浮沉.md"
+    },
+    {
+      "basename": "2023-11-13🙂突破",
+      "path": "diary/2023-11-13🙂突破.md"
+    },
+    {
+      "basename": "2023-11-24🤓阿尔法",
+      "path": "diary/2023-11-24🤓阿尔法.md"
+    },
+    {
+      "basename": "2023-11-23😊稳步前进",
+      "path": "diary/2023-11-23😊稳步前进.md"
+    },
+    {
+      "basename": "2023-11-22😀飞跃",
+      "path": "diary/2023-11-22😀飞跃.md"
+    },
+    {
+      "basename": "2023-11-21😄重回正轨",
+      "path": "diary/2023-11-21😄重回正轨.md"
+    },
+    {
+      "basename": "2023-11-20😹虚惊一场",
+      "path": "diary/2023-11-20😹虚惊一场.md"
+    },
+    {
+      "basename": "2023-11-19😑",
+      "path": "diary/2023-11-19😑.md"
+    },
+    {
+      "basename": "2023-11-15😆拨云见雾",
+      "path": "diary/2023-11-15😆拨云见雾.md"
+    },
+    {
+      "basename": "2023-11-16😀高效",
+      "path": "diary/2023-11-16😀高效.md"
+    },
+    {
+      "basename": "2023-11-17😄🌈又突破",
+      "path": "diary/2023-11-17😄🌈又突破.md"
+    },
+    {
+      "basename": "2023-11-28🤩🧠继续",
+      "path": "diary/2023-11-28🤩🧠继续.md"
+    },
+    {
+      "basename": "2023-11-27🤠坚持",
+      "path": "diary/2023-11-27🤠坚持.md"
+    },
+    {
+      "basename": "source",
+      "path": "experience/source.md"
+    },
+    {
+      "basename": "2023-11-26😁稳定",
+      "path": "diary/2023-11-26😁稳定.md"
+    },
+    {
+      "basename": "2023-11-25🤩破局",
+      "path": "diary/2023-11-25🤩破局.md"
+    },
+    {
+      "basename": "2023-11-10😃尝试",
+      "path": "diary/2023-11-10😃尝试.md"
+    },
+    {
+      "basename": "markdown",
+      "path": "随笔/markdown.md"
+    },
+    {
+      "basename": "2023-11-11😊挣扎",
+      "path": "diary/2023-11-11😊挣扎.md"
+    },
+    {
+      "basename": "2023-11-18😑",
+      "path": "diary/2023-11-18😑.md"
+    },
+    {
+      "basename": "2023-11-14😑过渡日",
+      "path": "diary/2023-11-14😑过渡日.md"
+    },
+    {
+      "basename": "To do list",
+      "path": "To do list.md"
+    },
+    {
       "basename": "希腊神话",
-      "path": "mess/希腊神话.md"
+      "path": "随笔/希腊神话.md"
     },
     {
       "basename": "grammer",
@@ -97,16 +145,12 @@
       "path": "English/understanding.md"
     },
     {
-      "basename": "markdown",
-      "path": "mess/markdown.md"
-    },
-    {
       "basename": "mind",
-      "path": "mess/mind.md"
+      "path": "随笔/mind.md"
     },
     {
       "basename": "男性社会性图腾等级",
-      "path": "mess/男性社会性图腾等级.md"
+      "path": "随笔/男性社会性图腾等级.md"
     }
   ],
   "omittedPaths": [],

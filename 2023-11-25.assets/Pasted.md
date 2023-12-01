@@ -1,0 +1,1 @@
+![[Pasted.assets/Pasted image 20231125164940.jpg]]
