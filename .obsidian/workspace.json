@@ -4,28 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "2c0635c7b56bf7b0",
+        "id": "9a1163ccf90be849",
         "type": "tabs",
         "children": [
           {
-            "id": "0bc8818ea00ca3b5",
+            "id": "d7d55885b6b2c0c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-12-01.md",
+                "file": "随笔/当努力也成为错误.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b2e108fa7244d432",
+            "id": "086e86b9a1e83567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crash course/经济学.md",
+                "file": "🖋diary/2024-01-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e947cc477bfc474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1‍⃣算法数构/蓝桥.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7addcc0dceb3a7a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📖crash course/💰money/股票.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +74,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -100,16 +124,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "556260ba569adabb",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "diary/2023-12-01.md"
-              }
-            }
-          },
-          {
             "id": "a90d16842fa20a13",
             "type": "leaf",
             "state": {
@@ -134,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-12-01.md",
+                "file": "随笔/当努力也成为错误.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,33 +165,29 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-12-01.md",
+                "file": "随笔/当努力也成为错误.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "70ccb5d10166332e",
+            "id": "556260ba569adabb",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "586bbf4a517c4fb5",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "随笔/当努力也成为错误.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,49 +202,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bc8818ea00ca3b5",
+  "active": "d7d55885b6b2c0c4",
   "lastOpenFiles": [
-    "experience/study.md",
-    "experience/life.md",
-    "crash course/经济学.md",
-    "experience/source.assets/image-20231128221336301.png",
-    "crash course",
-    "experience/study.assets/image-20231116203825551.png",
-    "2023-11-25.assets/Pasted.assets/Pasted image 20231125164940.jpg",
-    "2023-11-25.assets/Pasted.md",
-    "diary/2023-12-01.md",
-    "diary/2023-11-30🐻‍❄进步.md",
-    "English/words.md",
-    "diary/2023-11-29😀保持.md",
-    "diary/2023-11-12🫡浮沉.md",
-    "diary/2023-11-13🙂突破.md",
-    "diary/2023-11-24🤓阿尔法.md",
-    "diary/2023-11-23😊稳步前进.md",
-    "diary/2023-11-22😀飞跃.md",
-    "diary/2023-11-21😄重回正轨.md",
-    "diary/2023-11-20😹虚惊一场.md",
-    "diary/2023-11-19😑.md",
-    "diary/2023-11-15😆拨云见雾.md",
-    "diary/2023-11-16😀高效.md",
-    "diary/2023-11-17😄🌈又突破.md",
-    "diary/2023-11-28🤩🧠继续.md",
-    "diary/2023-11-27🤠坚持.md",
-    "experience/source.md",
-    "experience/source.assets",
-    "diary/2023-11-26😁稳定.md",
-    "diary/2023-11-25🤩破局.md",
-    "diary/2023-11-25🤩破局.assets/Pasted image 20231125163526.jpg",
-    "diary/2023-11-25.assets/Pasted image 20231125164642.jpg",
-    "2023-11-25.assets/Pasted.assets",
-    "2023-11-25.assets",
-    "2023-11-25.assets/Pasted.assets/Pasted image 20231125164804.jpg",
-    "diary/apple.com.md",
-    "diary/().md",
-    "diary/2023-11-25🤩破局.assets",
-    "experience/study.assets",
-    "English",
-    "knowledge",
-    "experience",
-    "personality/未命名 1"
+    "🧭效率基础/markdown.md",
+    "🖋diary/2024-01-25.md",
+    "1‍⃣算法数构/蓝桥.md",
+    "📖crash course/💰money/股票.md",
+    "随笔/长江无穷.md",
+    "asset🧰/Pasted image 20231229092151.png",
+    "asset🧰/Pasted image 20240125220055.png",
+    "asset🧰/Pasted image 20240125220018.png",
+    "🖋diary/2024-01-24😊乐欢.md",
+    "随笔/未命名.md",
+    "asset🧰/Pasted image 20231222100145.png",
+    "asset🧰/Pasted image 20231222095943.png",
+    "asset🧰/Pasted image 20231228125114.png",
+    "asset🧰/source.assets/image-20231128221336301.png",
+    "随笔/当努力也成为错误.md",
+    "asset🧰/Pasted image 20240125220124.png",
+    "随笔/日历.md",
+    "随笔/希腊神话.md",
+    "Plan.md",
+    "随笔/男性社会性图腾等级.md",
+    "⭐experience/source.md",
+    "⭐experience/life.md",
+    "English/words2.md",
+    "🖋diary/说.md",
+    "🧭效率基础/搜索.md",
+    "🖋diary/2024-01-23😊教父.md",
+    "随笔/罗马神话.md",
+    "🖋diary/2024-01-22😊放松.md",
+    "🖋diary/2024/1月/2024-01-21😊度.md",
+    "🖋diary/2024/1月/2024-01-01😸优雅.md",
+    "🖋diary/2024-01-21.md",
+    "📖crash course/💰money/经济学.md",
+    "🖋diary/2024/1月",
+    "🖋diary/2024",
+    "🖋diary/2023/未命名",
+    "🖋diary/2023/12月/2023-12-01😀整顿.md",
+    "🖋diary/2023/12月",
+    "🖋diary/2023/11月",
+    "🖋diary/2023",
+    "🧭效率基础",
+    "asset🧰/Recording 20240116111831.webm",
+    "随笔/book",
+    "未命名.canvas",
+    "English/words2",
+    "asset🧰/study.assets/image-20231116203825551.png",
+    "source.assets/Pasted image 20231222095838.png",
+    "2023-11-25.assets/未命名.canvas"
   ]
 }

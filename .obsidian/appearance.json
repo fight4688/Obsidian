@@ -1,6 +1,7 @@
 {
-  "accentColor": "#2fe490",
+  "accentColor": "#406d5a",
   "theme": "moonstone",
   "baseFontSize": 23,
-  "cssTheme": "Typewriter"
+  "cssTheme": "Typewriter",
+  "translucency": false
 }

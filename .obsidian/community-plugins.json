@@ -1,11 +1,9 @@
 [
   "obsidian-tasks-plugin",
   "table-editor-obsidian",
-  "obsidian-custom-attachment-location",
   "dataview",
   "file-explorer-note-count",
   "remember-cursor-position",
   "recent-files-obsidian",
-  "emoji-shortcodes",
-  "obsidian-git"
+  "emoji-shortcodes"
 ]

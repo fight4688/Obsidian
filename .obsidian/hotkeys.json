@@ -22,5 +22,14 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
   ]
 }
