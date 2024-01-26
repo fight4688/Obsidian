@@ -1,0 +1,9 @@
+- [ ] typing
+- [ ] obsidian
+- [ ] shortcuts
+- [ ] computer
+- [ ] search
+- [ ] history and geography
+- [ ] scratch
+- [ ] ==reading==
+- [ ] exercise

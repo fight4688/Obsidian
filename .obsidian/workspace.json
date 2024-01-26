@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随笔/当努力也成为错误.md",
+                "file": "Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "803979013a7a6c48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋diary/2024-01-25.md",
+                "file": "🖋diary/2024-01-25😃欢乐.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随笔/当努力也成为错误.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随笔/当努力也成为错误.md",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随笔/当努力也成为错误.md"
+                "file": "Plan.md"
               }
             }
           }
@@ -202,10 +215,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d7d55885b6b2c0c4",
+  "active": "803979013a7a6c48",
   "lastOpenFiles": [
+    "plan for sister.md",
+    "Plan.md",
+    "🖋diary/2024-01-25😃欢乐.md",
+    "随笔/不以成败论英雄.md",
     "🧭效率基础/markdown.md",
-    "🖋diary/2024-01-25.md",
+    "随笔/当努力也成为错误.md",
     "1‍⃣算法数构/蓝桥.md",
     "📖crash course/💰money/股票.md",
     "随笔/长江无穷.md",
@@ -218,11 +235,9 @@
     "asset🧰/Pasted image 20231222095943.png",
     "asset🧰/Pasted image 20231228125114.png",
     "asset🧰/source.assets/image-20231128221336301.png",
-    "随笔/当努力也成为错误.md",
     "asset🧰/Pasted image 20240125220124.png",
     "随笔/日历.md",
     "随笔/希腊神话.md",
-    "Plan.md",
     "随笔/男性社会性图腾等级.md",
     "⭐experience/source.md",
     "⭐experience/life.md",
@@ -239,7 +254,6 @@
     "🖋diary/2024/1月",
     "🖋diary/2024",
     "🖋diary/2023/未命名",
-    "🖋diary/2023/12月/2023-12-01😀整顿.md",
     "🖋diary/2023/12月",
     "🖋diary/2023/11月",
     "🖋diary/2023",
