@@ -1,7 +1,9 @@
-- [ ] java-maven
+- [ ] ==java-maven==
 - [ ] dp LuoGu algrithom video
-- [ ] Cambridge Eng
+- [ ] ==Cambridge Eng==
 - [ ] DiZi
-- [ ] 《algrithom》
+- [ ] ==《algrithom》==
 - [ ] the blue map of life 
 - [ ] find what you love
+- [ ] network
+- [ ] clear

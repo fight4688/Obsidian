@@ -26,3 +26,4 @@ indictment charge控告，指控
 dread恐惧，害怕
 intricate复杂的
 bid出价
+secrete分泌
