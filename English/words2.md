@@ -27,3 +27,6 @@ dread恐惧，害怕
 intricate复杂的
 bid出价
 secrete分泌
+
+concise简明的
+martial军事的

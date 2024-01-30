@@ -1,10 +1,20 @@
+持续专注，不为外界所扰，不中道崩组
+良好心态
+- [ ] daily review
+
+
+knowledge isntead of information
+==focus==,only think one thing
+==柯察金== 
+
+rich mind
 egoism earnest
 实用主义 行动主义 功利主义
 不浪费一分一秒,首先==积累知识==而不是智慧和信息
 
 首先专注==学习==
-万事开头难
-$\alpha$ ==柯察金== 丁元英 赫姆霍兹 梭罗 教父
+==万事开头难==
+$\alpha$ 丁元英 赫姆霍兹 梭罗 教父
 主动而不是被动 专注 努力 隔绝外部信息 脱离==头盔、苏摩==
 back to high school
 ==专注== 单线程
@@ -13,7 +23,7 @@ back to high school
 
 ==加速==，超过视频输入
 ==生于忧患，死于安乐==
-- [ ] daily review
+
 
 
 ==坚持==保持奋斗

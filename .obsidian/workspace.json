@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/words2.md",
+                "file": "⭐experience/source.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,26 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1‍⃣算法数构/蓝桥.md",
+                "file": "🧭效率基础/network.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7addcc0dceb3a7a7",
+            "id": "8ca23948d5d26f3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖crash course/💰money/股票.md",
+                "file": "⭐experience/source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ac40b56a18907d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭐experience/source.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/words2.md",
+                "file": "⭐experience/source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/words2.md",
+                "file": "⭐experience/source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/words2.md"
+                "file": "⭐experience/source.md"
               }
             }
           }
@@ -215,19 +227,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "803979013a7a6c48",
+  "active": "7ac40b56a18907d8",
   "lastOpenFiles": [
-    "🖋diary/2024-01-27.md",
-    "🖋diary/2024-01-26🔑key.md",
+    "🖋diary/2024-01-29🐻‍❄迷.md",
     "⭐experience/source.md",
+    "🖋diary/2024-01-29.md",
+    "⭐experience/health habitat.md",
+    "🧭效率基础/vim.md",
+    "⭐experience/未命名.md",
+    "🧭效率基础/network.md",
+    "English/words2.md",
     "Plan.md",
+    "🖋diary/2024-01-28😊plane.md",
+    "🖋diary/2024-01-27😊bridge.md",
+    "⭐experience/life.md",
+    "plan for sister.md",
+    "1‍⃣算法数构/蓝桥.md",
+    "🖋diary/2024-01-25😃欢乐.md",
+    "🖋diary/2024-01-26🔑key.md",
     "🖋diary/2024-01-26.md",
     "🧭效率基础/markdown.md",
-    "🖋diary/2024-01-25😃欢乐.md",
-    "plan for sister.md",
     "随笔/不以成败论英雄.md",
     "随笔/当努力也成为错误.md",
-    "1‍⃣算法数构/蓝桥.md",
     "📖crash course/💰money/股票.md",
     "随笔/长江无穷.md",
     "asset🧰/Pasted image 20231229092151.png",
@@ -242,15 +263,6 @@
     "asset🧰/Pasted image 20240125220124.png",
     "随笔/日历.md",
     "随笔/希腊神话.md",
-    "随笔/男性社会性图腾等级.md",
-    "⭐experience/life.md",
-    "English/words2.md",
-    "🖋diary/说.md",
-    "🧭效率基础/搜索.md",
-    "🖋diary/2024-01-23😊教父.md",
-    "随笔/罗马神话.md",
-    "🖋diary/2024-01-22😊放松.md",
-    "🖋diary/2024/1月/2024-01-21😊度.md",
     "🖋diary/2024/1月",
     "🖋diary/2024",
     "🖋diary/2023/未命名",

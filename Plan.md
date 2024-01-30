@@ -2,7 +2,7 @@
 - [ ] dp LuoGu algrithom video
 - [ ] ==Cambridge Eng==
 - [ ] DiZi
-- [ ] ==《algrithom》==
+- [ ] ==《algrithom》== and basic algorithm,then you can clear faster
 - [ ] the blue map of life 
 - [ ] find what you love
 - [ ] network
