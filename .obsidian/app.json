@@ -2,7 +2,8 @@
   "promptDelete": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "asset🧰"
+  "attachmentFolderPath": "asset🧰",
+  "useMarkdownLinks": true
 }

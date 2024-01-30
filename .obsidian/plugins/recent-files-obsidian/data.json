@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-30",
+      "path": "🖋diary/2024-01-30.md"
+    },
+    {
+      "basename": "study",
+      "path": "⭐experience/study.md"
+    },
+    {
       "basename": "source",
       "path": "⭐experience/source.md"
+    },
+    {
+      "basename": "network",
+      "path": "🧭效率基础/network.md"
+    },
+    {
+      "basename": "Plan",
+      "path": "Plan.md"
+    },
+    {
+      "basename": "life",
+      "path": "⭐experience/life.md"
+    },
+    {
+      "basename": "2024-01-25😃欢乐",
+      "path": "🖋diary/2024-01-25😃欢乐.md"
+    },
+    {
+      "basename": "words2",
+      "path": "English/words2.md"
+    },
+    {
+      "basename": "2024-01-27😊bridge",
+      "path": "🖋diary/2024-01-27😊bridge.md"
     },
     {
       "basename": "2024-01-29🐻‍❄迷",
@@ -13,28 +45,8 @@
       "path": "⭐experience/health habitat.md"
     },
     {
-      "basename": "network",
-      "path": "🧭效率基础/network.md"
-    },
-    {
-      "basename": "words2",
-      "path": "English/words2.md"
-    },
-    {
-      "basename": "Plan",
-      "path": "Plan.md"
-    },
-    {
       "basename": "2024-01-28😊plane",
       "path": "🖋diary/2024-01-28😊plane.md"
-    },
-    {
-      "basename": "2024-01-27😊bridge",
-      "path": "🖋diary/2024-01-27😊bridge.md"
-    },
-    {
-      "basename": "life",
-      "path": "⭐experience/life.md"
     },
     {
       "basename": "plan for sister",
@@ -43,10 +55,6 @@
     {
       "basename": "蓝桥",
       "path": "1‍⃣算法数构/蓝桥.md"
-    },
-    {
-      "basename": "2024-01-25😃欢乐",
-      "path": "🖋diary/2024-01-25😃欢乐.md"
     },
     {
       "basename": "2024-01-26🔑key",
@@ -187,10 +195,6 @@
     {
       "basename": "2023-11-10😃尝试",
       "path": "🖋diary/2023/11月/2023-11-10😃尝试.md"
-    },
-    {
-      "basename": "2023-11-23😊稳步前进",
-      "path": "🖋diary/2023/11月/2023-11-23😊稳步前进.md"
     }
   ],
   "omittedPaths": [],
