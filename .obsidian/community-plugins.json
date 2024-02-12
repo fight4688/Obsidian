@@ -1,9 +1,10 @@
 [
   "obsidian-tasks-plugin",
-  "table-editor-obsidian",
   "dataview",
   "file-explorer-note-count",
   "remember-cursor-position",
   "recent-files-obsidian",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin"
 ]

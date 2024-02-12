@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9bbdc4071d141e5b","type":"group","x":-360,"y":760,"width":394,"height":540,"label":"test group"},
+		{"id":"1f55500958cb0695","type":"text","text":"###### first\n支持markdown语法","x":-341,"y":860,"width":375,"height":220,"color":"3"},
+		{"id":"622589766dae7930","type":"text","text":"convenience","x":-278,"y":1140,"width":250,"height":60},
+		{"id":"56040ca4b88ce96d","type":"text","text":"","x":-300,"y":594,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"d8a55a355f6cfcec","fromNode":"9bbdc4071d141e5b","fromSide":"top","toNode":"56040ca4b88ce96d","toSide":"bottom"}
+	]
+}

@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "121b0fe1a9525768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖋diary/2024-02-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78e53a9871f3948f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭐experience/source（功利，现实）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d7d55885b6b2c0c4",
             "type": "leaf",
             "state": {
@@ -25,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧭效率基础/network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ca23948d5d26f3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⭐experience/source.md",
+                "file": "⭐experience/life.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋diary/2024-01-30.md",
+                "file": "English/words2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce42276036f5a141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1‍⃣算法数构/蓝桥.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5110321044922
+    "width": 242.5
   },
   "right": {
     "id": "75370eae8ed000df",
@@ -136,20 +160,12 @@
             }
           },
           {
-            "id": "45fbbb69384249d8",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "ed5518d8046c839e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖋diary/2024-01-30.md",
+                "file": "🖋diary/2024-02-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖋diary/2024-01-30.md",
+                "file": "🖋diary/2024-02-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,17 +194,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖋diary/2024-01-30.md"
+                "file": "🖋diary/2024-02-12.md"
               }
+            }
+          },
+          {
+            "id": "b50554117a0d13db",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,49 +221,56 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7ac40b56a18907d8",
+  "active": "121b0fe1a9525768",
   "lastOpenFiles": [
+    "⭐experience/source（功利，现实）.md",
+    "1‍⃣算法数构/蓝桥.md",
+    "English/words2.md",
+    "🖋diary/2024-02-12.md",
+    "🖋diary/2024-02-11🐻‍❄️平淡.md",
+    "🖋diary/2024-02-10🐻‍❄初一.md",
+    "Excalidraw/Drawing 2024-02-05 14.53.09.excalidraw.md",
+    "⭐experience/life.md",
+    "English/understanding.md",
+    "English/sentence.md",
+    "English/grammer.md",
+    "English/phrase.md",
+    "English/scheme.md",
     "⭐experience/study.md",
+    "未命名 1.md",
     "未命名.md",
+    "🖋diary/2024-02-09🐻‍❄️继续.md",
+    "asset🧰/Pasted image 20240209194158.png",
+    "🖋diary/2024-02-08😃light.md",
+    "Plan.md",
+    "未命名 2.md",
+    "Excalidraw/Drawing 2024-02-04 21.01.50.excalidraw.md",
+    "white board.canvas",
+    "⭐experience/health.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "🖋diary/2024-02-07🐻‍❄️start.md",
+    "🧭效率基础/搜索.md",
+    "🖋diary/2024-02-06🐻‍❄️前进.md",
+    "🖋diary/2024-02-05😃mind.md",
+    "asset🧰/Pasted Image 20240204212903_884.png",
+    "Excalidraw",
+    "asset🧰/Recording 20240204204507.webm",
+    "随笔/未命名.canvas",
+    "asset🧰/Pasted image 20240131193658.png",
     "⭐experience/att/Pasted image 20240130132740.png",
     "⭐experience/att",
-    "🖋diary/2024-01-30.md",
-    "⭐experience/source.md",
-    "🧭效率基础/network.md",
-    "Plan.md",
-    "⭐experience/life.md",
-    "🖋diary/2024-01-25😃欢乐.md",
-    "English/words2.md",
-    "🖋diary/2024-01-27😊bridge.md",
-    "🖋diary/2024-01-29🐻‍❄迷.md",
-    "⭐experience/health habitat.md",
-    "🖋diary/2024-01-29.md",
-    "🧭效率基础/vim.md",
-    "⭐experience/未命名.md",
-    "🖋diary/2024-01-28😊plane.md",
-    "plan for sister.md",
-    "1‍⃣算法数构/蓝桥.md",
-    "🖋diary/2024-01-26🔑key.md",
-    "🖋diary/2024-01-26.md",
-    "🧭效率基础/markdown.md",
-    "随笔/不以成败论英雄.md",
-    "随笔/当努力也成为错误.md",
-    "📖crash course/💰money/股票.md",
-    "随笔/长江无穷.md",
     "asset🧰/Pasted image 20231229092151.png",
     "asset🧰/Pasted image 20240125220055.png",
     "asset🧰/Pasted image 20240125220018.png",
-    "🖋diary/2024-01-24😊乐欢.md",
     "asset🧰/Pasted image 20231222100145.png",
     "asset🧰/Pasted image 20231222095943.png",
     "asset🧰/Pasted image 20231228125114.png",
-    "asset🧰/source.assets/image-20231128221336301.png",
-    "asset🧰/Pasted image 20240125220124.png",
     "🖋diary/2024/1月",
     "🖋diary/2024",
     "🖋diary/2023/未命名",
@@ -248,10 +278,6 @@
     "🖋diary/2023/11月",
     "🖋diary/2023",
     "🧭效率基础",
-    "asset🧰/Recording 20240116111831.webm",
-    "随笔/book",
-    "未命名.canvas",
-    "asset🧰/study.assets/image-20231116203825551.png",
     "2023-11-25.assets/未命名.canvas"
   ]
 }
