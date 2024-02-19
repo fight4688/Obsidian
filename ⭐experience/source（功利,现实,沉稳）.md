@@ -1,13 +1,24 @@
+Why I am I:childhood burried in the books
+保持微笑以免大脑过载
+
 ==像原始人一样专注，扔开那些无效的娱乐，投入到实用的生活中，在实践中理解人文（抛弃头盔和苏摩->色情）==断网🛜
+Internet is just a trap
 ==赫姆霍兹==
+获取知识而不是信息:知识：洞察世界 信息：胡言乱语
+
+
+人类的本质是梭罗
+just do it!
 极度功利的原始学习者
 ==快速学习,万事开头难==
+==青春是播种的季节==
+良好心态，专注
 distinguish the difference between imagning and thinkink
 
 click after thinking three times 
 极度==功利学习==的原始人
 持续的学习才是破除迷茫的最好方法
-色情->塞尔维亚（性只能建立在爱的基础上）
+色情->塞尔维亚（性只能建立在爱的基础上）解析人类
 放松才能专注
 
 明确优先级：web，算法
@@ -16,7 +27,7 @@ back to senior high school
 行动 放松大脑
 ==焦虑只会害死自己==
 ==monkey the first.== 专注
-==万事开头难,monkey the first==
+==万事开头难,monkey the first==,学才能变化，博学而笃志
 korchagin
 持续==专注==，不为外界所扰，不中道崩组
 回到21世纪初，be a "==primitive==",减少信息摄入

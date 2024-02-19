@@ -62,7 +62,7 @@ martial军事的
 | destine-destiny命运 | on the verge of濒临灭绝 | steadily deteriorate每况愈下 |
 | at one's disposal | dispute-argument | greed-greedy贪婪 |
 |  |  |  |
-| abstracted心不在焉 | hygiene私-     senitation | preliminary-elementary |
+| abstracted心不在焉 | hygiene-senitation | preliminary-elementary |
 | mechanic机械师 | mechanism机械系统 | apparatus仪器，组织 |
 | fluid流体 | fort堡垒 | retention保留 |
 | illuminating亮，有启发的 | overlapping-embedded | ==bed-bad-buy== |
@@ -89,31 +89,31 @@ martial军事的
 | feat壮举，合适的 | tile on the roof | jeopardy-danger |
 |  |  |  |
 | stunning-amazing | monopoly垄断 | （hexa）decimal十（六）进制 |
+| swipe(滑动)-sweep | esteem-respect | boycott |
+| huddle up蜷缩 | stunt特技，噱头 | peril-hazard-jeopardy |
+| proponent-supporter | cozy nest温馨小窝 | twist-sprain |
 |  |  |  |
+| strain拉伤，紧张，绷紧- | refrain不及物-restrain克制 | constrain限制chain |
+| provoke挑衅-invoke | subsistence line生存，生计（贫困线） | superstition迷信 |
+| surveillace-supervision | lance-spear矛 |  vomit呕吐 |
+| seduce(sex)-induce-tempt(by smt) | torment-torture折磨-torch | inflict使遭受-engender产生 |
 |  |  |  |
+| tragedy-misery | conquer-conquest(n.) | arch of triumph凯旋门 |
+| urge-dirve | vigour-vigorous-vatality活力 | extravagance-luxury |
+| frugality-thrift | paradox悖论 | long/yearn for |
+| ==雅思adj/adv== |  |  |
+| aboringinal原始的 | accountable-responsible | aesthetic审美的 |
+| affluent-abundant-ample | aggregate-aggravate恶化 | agile development敏捷开发 |
+| all-round development全面发展 | alluring-charming迷人的attractive | appeal the verdict上诉裁决 |
+| appaling-shocking震惊的 | appetite-appetising | loose-slash-lax松的 |
 |  |  |  |
+| aerobic有氧的 | go astray迷路 | astronomical-enormous-colossal |
+| baneful harmful | exert influence on施加影响 | barbaric-savage |
+| benign慈祥，有益的malign恶毒的 | bi linguist双语者 | ==bound弹，界限，凝聚，必然的== |
+| infinite-boundless resource | brutal cruel残忍的 | cardiovascular心血管的 |
 |  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| carnivorous肉食的vegetarian | dire-catastrophic | chronic慢性的-acute |
+| mercury水星，水银 | the doom of末日1 |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |

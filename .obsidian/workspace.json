@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋diary/2024-02-12.md",
+                "file": "🖋diary/2024-02-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐experience/source（功利，现实）.md",
-                "mode": "source",
+                "file": "⭐experience/life.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -70,6 +70,24 @@
           },
           {
             "id": "ce42276036f5a141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1‍⃣算法数构/蓝桥.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6398ae849c761320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8492026bc4082653",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "75370eae8ed000df",
@@ -165,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖋diary/2024-02-12.md",
+                "file": "🖋diary/2024-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖋diary/2024-02-12.md",
+                "file": "🖋diary/2024-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖋diary/2024-02-12.md"
+                "file": "🖋diary/2024-02-19.md"
               }
             }
           },
@@ -211,7 +230,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,36 +248,42 @@
   },
   "active": "121b0fe1a9525768",
   "lastOpenFiles": [
-    "⭐experience/source（功利，现实）.md",
-    "1‍⃣算法数构/蓝桥.md",
     "English/words2.md",
-    "🖋diary/2024-02-12.md",
+    "🖋diary/2024-02-19.md",
+    "🖋diary/2024-02-18😊Stoicism.md",
+    "asset🧰/9453eea6985ac3519e245fcd26849291.png",
+    "⭐experience/life.md",
+    "1‍⃣算法数构/蓝桥.md",
+    "asset🧰/Pasted image 20240218225936.png",
+    "asset🧰/Pasted image 20240218225755.png",
+    "⭐experience/source（功利,现实,沉稳）.md",
+    "asset🧰/Pasted image 20240218225605.png",
+    "asset🧰/Pasted image 20240218224619.png",
+    "Plan.md",
+    "🖋diary/2024-02-17😃party.md",
+    "🖋diary/2024-02-16😊play.md",
+    "🖋diary/2024-02-15😊trap.md",
+    "🖋diary/2024-02-14😊dizzy.md",
+    "🖋diary/2024-02-13😂reality.md",
+    "🖋diary/2024-02-12🐻‍❄️dizzy.md",
     "🖋diary/2024-02-11🐻‍❄️平淡.md",
     "🖋diary/2024-02-10🐻‍❄初一.md",
-    "Excalidraw/Drawing 2024-02-05 14.53.09.excalidraw.md",
-    "⭐experience/life.md",
-    "English/understanding.md",
-    "English/sentence.md",
-    "English/grammer.md",
-    "English/phrase.md",
-    "English/scheme.md",
-    "⭐experience/study.md",
-    "未命名 1.md",
-    "未命名.md",
-    "🖋diary/2024-02-09🐻‍❄️继续.md",
-    "asset🧰/Pasted image 20240209194158.png",
-    "🖋diary/2024-02-08😃light.md",
-    "Plan.md",
-    "未命名 2.md",
-    "Excalidraw/Drawing 2024-02-04 21.01.50.excalidraw.md",
-    "white board.canvas",
-    "⭐experience/health.md",
-    "未命名.canvas",
-    "未命名 1.canvas",
-    "🖋diary/2024-02-07🐻‍❄️start.md",
-    "🧭效率基础/搜索.md",
     "🖋diary/2024-02-06🐻‍❄️前进.md",
     "🖋diary/2024-02-05😃mind.md",
+    "🖋diary/2024-02-04😃better.md",
+    "🖋diary/2024-02-03🙂茫.md",
+    "🖋diary/2024-02-02🙂混乱.md",
+    "🖋diary/2024-02-01😃change.md",
+    "⭐experience/health.md",
+    "🖋diary/2024-02-07🐻‍❄️start.md",
+    "🖋diary/2024-02-08😃light.md",
+    "🖋diary/2024-02-09🐻‍❄️继续.md",
+    "⭐experience/habitat.md",
+    "asset🧰/Pasted image 20240213230333.png",
+    "asset🧰/Pasted image 20240209194158.png",
+    "white board.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas",
     "asset🧰/Pasted Image 20240204212903_884.png",
     "Excalidraw",
     "asset🧰/Recording 20240204204507.webm",
@@ -265,12 +291,6 @@
     "asset🧰/Pasted image 20240131193658.png",
     "⭐experience/att/Pasted image 20240130132740.png",
     "⭐experience/att",
-    "asset🧰/Pasted image 20231229092151.png",
-    "asset🧰/Pasted image 20240125220055.png",
-    "asset🧰/Pasted image 20240125220018.png",
-    "asset🧰/Pasted image 20231222100145.png",
-    "asset🧰/Pasted image 20231222095943.png",
-    "asset🧰/Pasted image 20231228125114.png",
     "🖋diary/2024/1月",
     "🖋diary/2024",
     "🖋diary/2023/未命名",
