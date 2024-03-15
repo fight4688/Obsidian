@@ -31,6 +31,7 @@
 
 费曼学习法
 快速
+![](../asset🧰/Pasted%20image%2020240220153247.png)
 
 # 信息
 date->information->knowledge->wisdom->impact

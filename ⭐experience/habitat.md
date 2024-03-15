@@ -1,4 +1,9 @@
-work flow:obsidian+'tomato bell'
+work flow:obsidian+'tomato bell'+music+words+film
+==blink your eyes more==
+==单任务处理==
+just use google to acquire information
+
+read before going to bed
 
 character setting:sports,health
 favorie movie:twelve angry men,god father

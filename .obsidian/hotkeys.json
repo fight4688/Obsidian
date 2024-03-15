@@ -66,5 +66,13 @@
       ],
       "key": "1"
     }
+  ],
+  "open-with-default-app:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
   ]
 }
