@@ -5,5 +5,5 @@
 - [ ] ==《algrithom》== and basic algorithm,then you can clear faster
 - [ ] the blue map of life 
 - [ ] find what you love
-- [ ] network
+- [x] network ✅ 2024-04-18
 - [ ] clear

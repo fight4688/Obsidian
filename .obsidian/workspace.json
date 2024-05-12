@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋diary/2024-03-15.md",
+                "file": "🖋diary/2024-05-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,31 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐experience/source（沉稳，富兰克林,极简，斯多葛,勤奋,务实,紧迫感）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf15089baf1b59fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻基石/数据库.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d60493d17f9cfa95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻基石/Java.md",
+                "file": "⭐experience/source（斯多葛,掘金，务实,专注，极简，惜时如金）.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/words2.md",
+                "file": "🌎English/words1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -69,19 +45,66 @@
             }
           },
           {
-            "id": "0c92114390ef2f95",
+            "id": "486c2d54edbb0d79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1‍⃣算法数构/蓝桥.md",
+                "file": "🌎English/words2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fc938a6a9959fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖥cs/💻基石/数据库.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c3da653bfb772e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖥cs/1‍⃣算法数构/leetcode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ce2d2a03f032809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖥cs/Framework/framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97820398095e9b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖥cs/💻基石/network.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stumble",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5110321044922
+    "width": 244.5110321044922
   },
   "right": {
     "id": "75370eae8ed000df",
@@ -166,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻基石/数据库.md",
+                "file": "🖋diary/2024-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻基石/数据库.md",
+                "file": "🖋diary/2024-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻基石/数据库.md"
+                "file": "🖋diary/2024-05-11.md"
               }
             }
           },
@@ -227,58 +250,58 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cf15089baf1b59fc",
+  "active": "121b0fe1a9525768",
   "lastOpenFiles": [
-    "💻基石/network.md",
-    "💻基石/数据库.md",
+    "⭐experience/source（斯多葛,掘金，务实,专注，极简，惜时如金）.md",
+    "🖋diary/2024-05-11.md",
+    "🖋diary/2024-05-10🐯greedy.md",
+    "🖋diary/2024-05-09😆better.md",
+    "⭐experience/life.md",
+    "🖋diary/2024-05-08💦HotDay.md",
+    "🖥cs/💻基石/network.md",
+    "Excalidraw/test.md",
+    "asset🧰/Pasted Image 20240508203804_137.png",
+    "Excalidraw/Drawing 2024-02-21 11.53.44.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-08 20.34.20.excalidraw.md",
+    "未命名.canvas",
+    "未命名.md",
+    "🖋diary/2024-05-07🐯roar.md",
+    "🖋diary/2024-05-06🐸tear.md",
+    "🖥cs/1‍⃣算法数构/leetcode.md",
+    "🖥cs/Framework/framework.md",
+    "🖥cs/💻基石/数据库.md",
+    "🌎English/words2.md",
+    "🖥cs/💻基石/计算机组成原理.md",
+    "🖥cs/💻基石/Java.md",
+    "🌎English/words1.md",
+    "📖skill/💰money/股票.md",
+    "🖥cs/1‍⃣算法数构/蓝桥.md",
+    "⭐experience/knowledge.md",
+    "🖋diary/2024-05-05🏊light.md",
+    "🖋diary/2024-05-04💰100M.md",
+    "🖋diary/2024/4月/2024-04-01😂fool.md",
+    "🖋diary/2024/4月",
+    "asset🧰/Pasted image 20240424094803.png",
+    "asset🧰/Pasted image 20240424001844.png",
+    "asset🧰/Pasted image 20240423234055.png",
+    "asset🧰/Pasted image 20240423204938.png",
+    "asset🧰/Pasted image 20240422090845.png",
+    "🖥cs",
+    "🖋diary/2024/3月",
+    "asset🧰/1A86E8BFAF2783C15BCDA62E980FAF35 1.png",
+    "asset🧰/1A86E8BFAF2783C15BCDA62E980FAF35.png",
+    "asset🧰/Pasted image 20240323112553.png",
+    "🖥cs/Framework",
     "💻基石/未命名",
     "asset🧰/Pasted image 20240315115915.png",
-    "asset🧰/Pasted image 20240315114327.png",
-    "asset🧰/Pasted image 20240315103833.png",
-    "asset🧰/Pasted image 20240315102851.png",
-    "🖋diary/2024-03-15.md",
-    "🖋diary/2024-03-14💪mess.md",
-    "⭐experience/source（沉稳，富兰克林,极简，斯多葛,勤奋,务实,紧迫感）.md",
-    "asset🧰/Pasted image 20240315000926.png",
-    "💻基石/Java.md",
-    "asset🧰/Pasted image 20240314224110.png",
-    "asset🧰/Pasted image 20240314211114.png",
-    "asset🧰/Pasted image 20240314205049.png",
-    "asset🧰/Pasted image 20240314200609.png",
-    "asset🧰/Pasted image 20240314195618.png",
-    "🖋diary/2024-03-13🐻‍❄️繁忙.md",
-    "English/words2.md",
-    "1‍⃣算法数构/蓝桥.md",
-    "⭐experience/life.md",
-    "⭐experience/habitat.md",
-    "Plan.md",
-    "🖋diary/2024-03-12😃势头.md",
-    "🖋diary/2024-03-10🤩avenger.md",
-    "🖋diary/2024-03-11😎transform.md",
-    "🖋diary/2024-03-09🐻‍❄️fight.md",
-    "English/words1.md",
-    "🖋diary/2024-03-08🤩tornado.md",
-    "💻基石/computer network.md",
-    "🖋diary/2024-03-07💪stronger.md",
-    "随笔/认识阅读.md",
-    "🖋diary/2024-03-06😊mess.md",
-    "🖋diary/2024-03-05😁clear.md",
-    "🖋diary/2024-03-04😁keep.md",
-    "💻基石/chips/Linux.md",
-    "🖋diary/2024-03-03😃better.md",
     "white board.canvas",
     "🖋diary/2024/2月",
-    "💻基石/chips",
+    "🖥cs/💻基石/chips",
     "基础知识",
-    "未命名.canvas",
     "未命名 1.canvas",
     "Excalidraw",
     "asset🧰/Recording 20240204204507.webm",
     "随笔/未命名.canvas",
-    "⭐experience/att",
-    "🖋diary/2024/1月",
-    "🖋diary/2024",
-    "🖋diary/2023/未命名",
     "2023-11-25.assets/未命名.canvas"
   ]
 }
